@@ -1,0 +1,16 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RedisInMemory.Web", "RedisInMemory.Web\RedisInMemory.Web.csproj", "{77DF3A3F-FAD7-4B8D-998F-38248E241169}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{77DF3A3F-FAD7-4B8D-998F-38248E241169}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77DF3A3F-FAD7-4B8D-998F-38248E241169}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77DF3A3F-FAD7-4B8D-998F-38248E241169}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77DF3A3F-FAD7-4B8D-998F-38248E241169}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
