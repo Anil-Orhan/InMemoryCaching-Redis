@@ -8,35 +8,30 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\unilogistix\\.nuget\\packages\\": {},
-    "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\anilo\\.nuget\\packages\\": {},
+    "K:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
+      "projectUniqueName": "C:\\Users\\anilo\\Documents\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
       "projectName": "RedisInMemory.Web",
-      "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
-      "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\obj\\",
+      "projectPath": "C:\\Users\\anilo\\Documents\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
+      "packagesPath": "C:\\Users\\anilo\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anilo\\Documents\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
-        "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        "K:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages"
       ],
       "configFilePaths": [
-        "C:\\Users\\unilogistix\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\anilo\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 22.2.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
+        "K:\\Program Files\\DevExpress 22.2\\Components\\System\\Components\\Packages": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -73,7 +68,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Users\\anilo\\.dotnet\\sdk\\7.0.200\\RuntimeIdentifierGraph.json"
       }
     }
   }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "PT/aqRQZi2oChDPlcY/02VmRCQzOqfW4QRWFQBe8pKVNxgk2PL1xPKPSq69vW6ZWAxt1QlVKAg4Cz6ySK7Mpvw==",
+  "dgSpecHash": "bVKqIb9p5InImBOSpfSHl/DkpWbez4mWH4ilXJ9Pfp0+yYc8e+aKSE21QUoGmk2VUZB3sRCewohJEhraJ3TVDg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
+  "projectFilePath": "C:\\Users\\anilo\\Documents\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
