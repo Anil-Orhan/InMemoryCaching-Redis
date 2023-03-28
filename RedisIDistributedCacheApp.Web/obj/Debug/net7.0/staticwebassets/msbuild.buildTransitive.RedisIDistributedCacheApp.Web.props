@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\RedisIDistributedCacheApp.Web.props" />
+</Project>

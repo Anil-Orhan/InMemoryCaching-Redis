@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\unilogistix\\RiderProjects\\RedisInMemory\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
+      "projectUniqueName": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
       "projectName": "RedisInMemory.Web",
-      "projectPath": "C:\\Users\\unilogistix\\RiderProjects\\RedisInMemory\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
+      "projectPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\RedisInMemory.Web.csproj",
       "packagesPath": "C:\\Users\\unilogistix\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\unilogistix\\RiderProjects\\RedisInMemory\\RedisInMemory.Web\\obj\\",
+      "outputPath": "C:\\Users\\unilogistix\\OneDrive\\Belgeler\\GitHub\\InMemoryCaching-Redis\\RedisInMemory.Web\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\DevExpress 22.2\\Components\\Offline Packages",
