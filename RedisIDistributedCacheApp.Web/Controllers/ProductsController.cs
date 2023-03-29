@@ -1,6 +1,7 @@
 ﻿using System.Data;
 using System.Runtime.Serialization;
 using System.Text;
+using System.IO;
 using System.Text.Json.Serialization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.Extensions.Caching.Distributed;
@@ -41,8 +42,29 @@ public class ProductsController : Controller
     {
       
        var cache=  _distributedCache.Get("product:1");
+       string jsonPorduct = Encoding.UTF8.GetString(cache);
+       Product? p = JsonConvert.DeserializeObject<Product>(jsonPorduct);
       // Product product = JsonConvert.DeserializeObject<Product>(cache);
-       ViewBag.cache = cache;
+       ViewBag.cache = p;
         return View();
+    }
+    
+
+    //Dosyayı Cachelemek
+    public IActionResult ImageCache()
+    {
+        var path = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images/image.jpg");
+        byte[] imageByte = System.IO.File.ReadAllBytes(path);
+        _distributedCache.Set("image:1",imageByte);
+        return View();
+    }
+
+    
+    // Dosyayı Cache'ten çekmek
+    public IActionResult ImageUrl()
+    {
+        byte[]? image = _distributedCache.Get("image:1");
+
+        return File(image, "image./jpg");
     }
 }
