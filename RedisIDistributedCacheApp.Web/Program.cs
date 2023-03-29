@@ -5,6 +5,14 @@ builder.Services.AddControllersWithViews();
 builder.Services.AddStackExchangeRedisCache(options =>
 {
     options.Configuration = "localhost:6379";
+    // options.ConfigurationOptions.User = "";
+    // options.ConfigurationOptions.Password = "";
+    // options.ConfigurationOptions.Ssl = false;
+    // options.ConfigurationOptions.ClientName = "";
+    // options.ConfigurationOptions.ConnectRetry = 1;
+    // options.ConfigurationOptions.ServiceName = "";
+    
+    
 });
 
 var app = builder.Build();

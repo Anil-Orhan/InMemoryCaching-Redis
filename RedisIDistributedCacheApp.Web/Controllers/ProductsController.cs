@@ -17,7 +17,7 @@ public class ProductsController : Controller
     public ProductsController(IDistributedCache distributedCache)
     {
         _distributedCache = distributedCache;
-        
+      
     }
     
     // Set
@@ -25,14 +25,11 @@ public class ProductsController : Controller
     {
         DistributedCacheEntryOptions options = new DistributedCacheEntryOptions();
         options.AbsoluteExpiration=DateTimeOffset.Now.AddMinutes(1);
-
-        Product product = new Product() {id = 1,name = "Kalem",price = (decimal)100.5,stock = 250};
+        Product product = new Product() {id = 1,name = "Book",price = (decimal)100.5,stock = 250};
         string jsonproduct = JsonConvert.SerializeObject(product);
-
         Byte[] byteproduct = Encoding.UTF8.GetBytes(jsonproduct);
-         _distributedCache.Set("product:1",byteproduct);
-      // await _distributedCache.SetStringAsync("product:1", jsonproduct, options);
-        
+        _distributedCache.Set("product:1",byteproduct);
+      // await _distributedCache.SetStringAsync("product:1", jsonproduct, options); // SetString() Metodu ile Json dosyalarını doğrudan cachleyebilirsiniz
         return View();
     }
     
