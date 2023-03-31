@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "aRvqy9FmGTLzwH25VwyFWxGqoVMVIK1gXopwy+g9e65/qzbpUOeCGXxqJR/4ZQbtVLVS1EZEesJRRaWUu0IFVA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\anilo\\Documents\\GitHub\\InMemoryCaching-Redis\\RedisExchangeAPI.Web\\RedisExchangeAPI.Web.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\anilo\\.nuget\\packages\\pipelines.sockets.unofficial\\2.2.2\\pipelines.sockets.unofficial.2.2.2.nupkg.sha512",
+    "C:\\Users\\anilo\\.nuget\\packages\\stackexchange.redis\\2.6.104\\stackexchange.redis.2.6.104.nupkg.sha512",
+    "C:\\Users\\anilo\\.nuget\\packages\\system.io.pipelines\\5.0.1\\system.io.pipelines.5.0.1.nupkg.sha512"
+  ],
+  "logs": []
+}
