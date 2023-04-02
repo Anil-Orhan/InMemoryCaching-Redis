@@ -6,9 +6,9 @@
 ### Gereksinimler
 
 ##### Bu projeyi çalıştırmak için aşağıdaki  bileşenlere ihtiyacınız var:
-####### - .Net 7.0 SDK
-####### -  AspNet 7.0 SDK
-####### -  Docker
+##### - .Net 7.0 SDK
+##### -  AspNet 7.0 SDK
+##### -  Docker
 
 
 
