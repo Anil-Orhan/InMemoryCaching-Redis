@@ -1,46 +1,15 @@
-Proje Adı
-Bu proje, [şu konuda](buraya proje hakkında bir bağlantı yerleştirin) yapılan araştırmaların sonuçlarını görselleştirmek için hazırlanmıştır.
+# Proje Adı
+#### Bu proje, Redis ile .Net 7.0'da (ve destekleyen diğer tüm versiyonlarda) temel caching işlemlerinin tamamı ile ilgili örnekler barındırmaktadır. Eğitim ve referans maksatlı geliştirilmiştir. Bu proje ile redis-cli ile yapabileceğiniz birçok işlemi, IDistrubutedCache ve StackExchange.API ile ayrı ayrı işleyerek temel tüm veri tipleri ile çeşitli örnekler işlenmiştir. 
 
-Gereksinimler
-Bu projeyi çalıştırmak için aşağıdaki yazılım bileşenlerine ihtiyacınız var:
+##### Bu proje başlangıç ve orta seviye redis bilgisi içermektedir. İleri Seyive bir referans vermemektedir. Dökümantasyon değildir.
 
-Python 3.x
-Pandas kütüphanesi
-Matplotlib kütüphanesi
-Kurulum
-Bu depoyu bilgisayarınıza klonlayın:
+### Gereksinimler
 
-bash
-Copy code
-git clone https://github.com/username/proje-adı.git
-Projeyi kurmak için aşağıdaki komutları çalıştırın:
+##### Bu projeyi çalıştırmak için aşağıdaki  bileşenlere ihtiyacınız var:
+####### - .Net 7.0 SDK
+####### -  AspNet 7.0 SDK
+####### -  Docker
 
-bash
-Copy code
-cd proje-adı
-pip install -r requirements.txt
-Kullanım
-Veri kümesini indirin: [buraya veri kümesi indirme bağlantısı yerleştirin]
 
-Veri kümesini data klasörüne kaydedin.
 
-Projeyi çalıştırmak için aşağıdaki komutu çalıştırın:
 
-css
-Copy code
-python main.py
-Katkıda Bulunma
-Bu projeye katkıda bulunmak isterseniz, lütfen şu adımları izleyin:
-
-Bu depoyu kendi hesabınıza çatallayın.
-
-Yeni bir dal oluşturun: git checkout -b my-feature-branch
-
-Yapılan değişiklikleri yapın ve bunları açıklayan açıklayıcı bir açıklama yazın.
-
-Değişikliklerinizi yapmak için bir istek (PR) oluşturun.
-
-İnceleme yapıldıktan sonra değişiklikleriniz kabul edilebilir ise, projeye katkıda bulunmuş olacaksınız.
-
-Lisans
-Bu proje MIT lisansı altında lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını okuyun.
