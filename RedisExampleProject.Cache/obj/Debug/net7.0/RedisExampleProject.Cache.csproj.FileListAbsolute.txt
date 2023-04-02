@@ -1,0 +1,12 @@
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\bin\Debug\net7.0\RedisExampleProject.Cache.deps.json
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\bin\Debug\net7.0\RedisExampleProject.Cache.dll
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\bin\Debug\net7.0\RedisExampleProject.Cache.pdb
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.csproj.AssemblyReference.cache
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.AssemblyInfoInputs.cache
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.AssemblyInfo.cs
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.csproj.CoreCompileInputs.cache
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.dll
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\refint\RedisExampleProject.Cache.dll
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\RedisExampleProject.Cache.pdb
+C:\Users\anilo\Documents\GitHub\InMemoryCaching-Redis\RedisExampleProject.Cache\obj\Debug\net7.0\ref\RedisExampleProject.Cache.dll
